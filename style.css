@@ -128,7 +128,7 @@ h1, a, p, h2{
             margin-top: 193px;
             display: inline-block;
         }
-            .apatiniai-mygtukai{
+            main > nav > button{
                 display: inline-block;
                 float: left;
                 width: 20%;
