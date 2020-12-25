@@ -56,7 +56,7 @@ h1, a, p, h2{
                 .rodykle-k {
                     display: inline-block;
                     float: left;
-                    margin-top: 350px;
+                    margin-top: 275px;
                     background-color: #48B3DA;
                     cursor: pointer;
                     border: none;
@@ -64,7 +64,7 @@ h1, a, p, h2{
                 .rodykle-d {
                     display: inline-block;
                     float: right;
-                    margin-top: 350px;
+                    margin-top: 275px;
                     background-color: #48B3DA;
                     cursor: pointer;
                     border: none;
@@ -93,7 +93,7 @@ h1, a, p, h2{
             h2{
                 text-transform: uppercase;
                 color: white;
-                font-size: 55px;
+                font-size: 35px;
                 margin-top: 120px;
                 margin-left: 120px;
                 margin-bottom: 10px;
@@ -125,7 +125,7 @@ h1, a, p, h2{
         .apatinis-main{
             width: 100%;
             height: 56px;
-            margin-top: 110px;
+            margin-top: 193px;
             display: inline-block;
         }
             .apatiniai-mygtukai{
