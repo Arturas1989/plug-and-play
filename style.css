@@ -44,7 +44,7 @@ h1, a, p, h2{
                
                 
             }
-                .button{
+                div > nav > button{
                     background-color:#01A4D6;
                     border: none;
                     padding: 5px 10px;
