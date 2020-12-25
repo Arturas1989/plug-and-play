@@ -116,7 +116,7 @@ h1, a, p, h2{
                     background-color: #F78A26;
                     border: none;
             }
-                .a-read-more{
+                button > a{
                     text-decoration: none;
                     text-transform: uppercase;
                     
